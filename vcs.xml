@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:frankdongo/UnasatApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:sranangd/Game-jam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Dwight Jubithana\Documents\Unasat\2016-2017\Java\school_something\Unasat" />

@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'webgoat-plugins-parent'" />
-    <option name="defaultScopeName" value="Project 'webgoat-plugins-parent'" />
+    <option name="customScope" value="Project 'UnitedApp - met categorie'" />
+    <option name="defaultScopeName" value="Project 'UnitedApp - met categorie'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'webgoat-plugins-parent'" />
+    <option name="SEARCH_SCOPE" value="Project 'UnitedApp - met categorie'" />
   </component>
 </application>

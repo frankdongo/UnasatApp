@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'webgoat-plugins-parent'" />
-    <option name="defaultScopeName" value="Project 'webgoat-plugins-parent'" />
+    <option name="customScope" value="File 'D:\UnitedApp - Copy (10)\app\src\main\java\com\theskyoffice\unitedbusinessapp\db\EmployeeDatabase.java'" />
+    <option name="defaultScopeName" value="File 'D:\UnitedApp - Copy (10)\app\src\main\java\com\theskyoffice\unitedbusinessapp\db\EmployeeDatabase.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'webgoat-plugins-parent'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\UnitedApp - Copy (10)\app\src\main\java\com\theskyoffice\unitedbusinessapp\db\EmployeeDatabase.java'" />
   </component>
 </application>
